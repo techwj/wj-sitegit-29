@@ -1,0 +1,59 @@
+{
+  "siteId": "high-value-hotel-recommendations",
+  "generatedAt": "2026-06-02T15:38:22.480120",
+  "categories": [
+    "beginner-high-value-hotel-recommendations",
+    "advanced-high-value-hotel-recommendations",
+    "tips-high-value-hotel-recommendations",
+    "history-high-value-hotel-recommendations",
+    "trending-high-value-hotel-recommendations",
+    "tutorials-high-value-hotel-recommendations"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-high-value-hotel-recommendations",
+      "category_name": "Beginner High Value Hotel Recommendations"
+    },
+    {
+      "category_slug": "advanced-high-value-hotel-recommendations",
+      "category_name": "Advanced High Value Hotel Recommendations"
+    },
+    {
+      "category_slug": "tips-high-value-hotel-recommendations",
+      "category_name": "High Value Hotel Recommendations Tips"
+    },
+    {
+      "category_slug": "history-high-value-hotel-recommendations",
+      "category_name": "High Value Hotel Recommendations History"
+    },
+    {
+      "category_slug": "trending-high-value-hotel-recommendations",
+      "category_name": "Trending High Value Hotel Recommendations"
+    },
+    {
+      "category_slug": "tutorials-high-value-hotel-recommendations",
+      "category_name": "High Value Hotel Recommendations Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "high-value-hotel-recommendations",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "High Value Hotel Recommendations Central",
+    "articles_per_row": 3
+  }
+}
